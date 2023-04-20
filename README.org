@@ -39,4 +39,8 @@ can create a new Makefile or copy and modify one you've used in the past.
 
 
 * Write your comments here:   
+
+I noticed that selection sort is much slower than any other sorting method
+Quick sort is fast but still slower than merge sort
+The built in sort is considerably faster than any other method
    
